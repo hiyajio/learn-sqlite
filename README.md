@@ -1,1 +1,1 @@
-# learning-sqlite3
+# Learn SQLite
