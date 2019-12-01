@@ -1,1 +1,1 @@
-# Learn SQLite
+# Learn SQLite - Python
